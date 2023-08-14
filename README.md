@@ -1,2 +1,2 @@
 # olamundo
- curso git hub
+ curso git hub, curso em video
